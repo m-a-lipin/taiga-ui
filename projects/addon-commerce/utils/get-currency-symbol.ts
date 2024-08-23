@@ -82,7 +82,7 @@ export function tuiGetCurrencySymbol(currency: TuiCurrencyVariants): string | nu
             return 'c';
         case TuiCurrency.Dirham:
         case TuiCurrencyCode.Dirham:
-            return 'Dh';
+            return 'DH';
         case TuiCurrency.TajikistaniSomoni:
         case TuiCurrencyCode.TajikistaniSomoni:
             return 'SM';

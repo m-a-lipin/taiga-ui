@@ -127,8 +127,8 @@ describe('getCurrencySymbol', () => {
     });
 
     it('Dirham', () => {
-        expect(tuiGetCurrencySymbol(TuiCurrency.Dirham)).toBe('Dh');
-        expect(tuiGetCurrencySymbol(TuiCurrencyCode.Dirham)).toBe('Dh');
+        expect(tuiGetCurrencySymbol(TuiCurrency.Dirham)).toBe('DH');
+        expect(tuiGetCurrencySymbol(TuiCurrencyCode.Dirham)).toBe('DH');
     });
 
     it('unknown', () => {

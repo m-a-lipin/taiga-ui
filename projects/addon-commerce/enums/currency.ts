@@ -98,7 +98,7 @@ export enum TuiCurrency {
      * @description Numeric code: 784
      * @description Alphabetic code: AED
      * @description Countries and territories: United Arab Emirates
-     * @description Currency symbol: Dh
+     * @description Currency symbol: DH
      */
     Dirham = 'AED',
 
